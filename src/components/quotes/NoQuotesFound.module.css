@@ -1,0 +1,17 @@
+.noquotes {
+  height: 10rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.noquotes p {
+  font-family: "Noto Sans JP";
+  color: #262c2c;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
